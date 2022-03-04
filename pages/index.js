@@ -82,7 +82,7 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Who's that Pokemon?</title>
+        <title>Who&apos;s that Pokemon?</title>
         <meta name="description" content="Guess The Right Pokemon" />
       </Head>
 
@@ -90,7 +90,7 @@ export default function Home() {
         <div className="flex flex-col absolute z-50 h-full w-full justify-center items-center space-y-4 ">
           <center>
             <h1 className="text-[45px] font-title text-yellow-300 2xl:text-7xl py-4">
-              Who's that Pokemon?
+              Who&apos;s that Pokemon?
             </h1>
 
             <ToastContainer
